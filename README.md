@@ -1,4 +1,4 @@
-This is a Project for finding bluerd objects in a picture with known background
+Finding blured objects in a picture with known background
 =============
 extracting frames from a video 
 -------------
